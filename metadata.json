@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Digital Hub",
+  "description": "One-stop solution for digital and government services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
